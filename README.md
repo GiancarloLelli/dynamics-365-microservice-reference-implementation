@@ -17,7 +17,7 @@ At the moment, all of this is a *work-in-progress* and there is no actual code p
 * Containerization
 * Long running task
 
-### About & Liense
+### About & License
 This repository is distributed under the [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) license I ([Giancarlo Lelli](https://twitter.com/itsonlyGianca)) am the only maintainer.
 For information about the project such as "how to get involved" reach out to me. Many of the concepts and reasong behind this project are taken from this awesome tutorial
 about microservice available at this [address](https://microservices.io/patterns/microservices.html)
